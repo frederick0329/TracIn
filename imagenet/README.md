@@ -9,4 +9,4 @@ The notebooks are meant to be read to gain insights and adapted to your dataset.
 
 ## Application of TrackIn
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frederick0329/TrackIn/blob/master/imagenet/resnet50_imagenet_self_influence.ipynb) Inspecting Training data with Self-Influence
-* [Coming Soon] Identifying Influential Training Points of a Test point
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frederick0329/TrackIn/blob/master/imagenet/resnet50_imagenet_proponents_opponents.ipynb) Identifying Influential Training Points (Proponents and Opponents) of a Test point
