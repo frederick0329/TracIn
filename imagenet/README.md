@@ -10,4 +10,4 @@ The notebooks are meant to be read to gain insights and adapted to your dataset.
 ## Application of TrackIn
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frederick0329/TrackIn/blob/master/imagenet/resnet50_imagenet_self_influence.ipynb) Inspecting Training data with Self-Influence
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frederick0329/TrackIn/blob/master/imagenet/resnet50_imagenet_proponents_opponents.ipynb) Identifying Influential Training Points (Proponents and Opponents) of a Test point 
-  * Cosider adapting the brute-force nearest neighbor with [ScaNN](https://github.com/google-research/google-research/tree/master/scann) to run on full ImageNet instead of 10%. 
+  * Cosider replacing the brute-force nearest neighbor with [ScaNN](https://github.com/google-research/google-research/tree/master/scann) to run on full ImageNet instead of 10%. 
