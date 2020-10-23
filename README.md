@@ -1,11 +1,11 @@
-# TrackIn
-[Implementation of Estimating Training Data Influence by Tracking Gradient Descent](https://arxiv.org/pdf/2002.08484.pdf)
+# TracIn
+[Implementation of Estimating Training Data Influence by Tracing Gradient Descent](https://arxiv.org/pdf/2002.08484.pdf)
 
 ## Goal: Identify the influence of training data points on F(data point at inference time).
 
 <img src="figures/goal.png" width="400"/>
 
-## Idea: Track Stochastic Gradient Descent (Using the loss function as F)
+## Idea: Trace Stochastic Gradient Descent (Using the loss function as F)
 
 <img src="figures/idea.png" width="800"/>
 
