@@ -11,7 +11,7 @@
 
 ## Equation 
 
-<img src="figures/trackincp.png" width="800"/>
+<img src="figures/tracincp.png" width="800"/>
 
 ## Broader Impact
 This work proposes a practical technique to understand the influence of training data points on loss functions/predictions/differentiable metrics. The technique is easier to apply than previously proposed techniques, and we hope it is widely used to understand the quality and influence of training data. For most real world applications, the impact of improving the quality of training data is simply to improve the quality of the model. In this sense, we expect the broader impact to be positive.
