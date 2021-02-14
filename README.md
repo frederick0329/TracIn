@@ -1,5 +1,9 @@
 # TracIn
 [Implementation of Estimating Training Data Influence by Tracing Gradient Descent](https://arxiv.org/pdf/2002.08484.pdf)
+* [NeurIPS 3 mins overview talk](https://videos.neurips.cc/category/34/search/Estimating%20Training%20Data/video/slideslive-38937872?t=0)
+* [NeurIPS 10 mins spotlight talk](https://videos.neurips.cc/category/34/search/Estimating%20Training%20Data/video/slideslive-38936700?t=27)
+* [NeurIPS poster](https://github.com/frederick0329/TracIn/blob/master/figures/neurips_poster.pdf)
+
 
 ## Goal: Identify the influence of training data points on F(data point at inference time).
 
